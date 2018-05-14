@@ -1,0 +1,9 @@
+node_modules/
+config/
+public/
+template/
+scripts/
+
+.vscode/
+.idea/
+*.iml
